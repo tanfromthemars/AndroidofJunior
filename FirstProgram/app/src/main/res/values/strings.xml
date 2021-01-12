@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">First Program</string>
-    <string name="btnOK">Đồng ý</string>
-    <string name="txtInput">Nhập dữ liệu</string>
-    <string name="txtOutput">Văn bản vừa nhập</string>
-</resources>
